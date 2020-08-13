@@ -2,6 +2,7 @@
 
 I got this idea by kenjee youtube channel 
 he had teached me alot till now 
+his channel link:https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
 
 Code and resources used in this project:
 Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
