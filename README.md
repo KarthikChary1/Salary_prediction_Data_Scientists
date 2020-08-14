@@ -1,7 +1,7 @@
 # Salary_prediction_Data_Scientists
 
-I got this idea by kenjee youtube channel 
-he had teached me alot till now 
+I got this idea from kenjee youtube channel 
+he had teached me alot till now and looking forward for more.
 his channel link:https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
 
 Code and resources used in this project:
